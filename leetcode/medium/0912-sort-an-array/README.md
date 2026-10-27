@@ -38,9 +38,9 @@ Explanation: Note that the values of nums are not necessarily unique.
 ## Solution
 
 **Language:** Java  
-**Runtime:** 33 ms (beats 23.62%)  
-**Memory:** 85.8 MB (beats 63.54%)  
-**Submitted:** 2026-10-23T16:06:25.691Z  
+**Runtime:** 34 ms (beats 21.99%)  
+**Memory:** 86.2 MB (beats 53.10%)  
+**Submitted:** 2026-10-27T08:20:46.290Z  
 
 ```java
 class Solution {
