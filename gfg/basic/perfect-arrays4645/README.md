@@ -26,31 +26,32 @@ Explanation:  If we reverse it, we get [5, 4, 3, 2, 1] which is the not same as 
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-29T14:14:43.597Z  
+**Submitted:** 2026-10-29T14:35:20.019Z  
 
 ```java
 class Solution {
-    public static boolean isPalindrome(int[] arr) {
-        // code here
-        // int[] newarr= new int[arr.length];
-        // for(int i=0;i<arr.length;i++)
-        // {
-        //     newarr[i]=arr[arr.length-1-i];
-        // }
-        // for(int i=0;i<arr.length;i++)
-        // {
-        //     if(arr[i]!=newarr[i])
-        //     {
-        //     return false;
-        //     }
-        // }
-        // return true;
-                for (int i = 0, j = arr.length - 1; i < j; i++, j--) {
-                    if (arr[i] != arr[j]) return false;
-                }
-                return true;
-        
-    }
+	public static boolean isPalindrome(int[] arr) {
+		// code here
+		// int[] newarr= new int[arr.length];
+		// for(int i=0;i<arr.length;i++)
+		// {
+		//     newarr[i]=arr[arr.length-1-i];
+		// }
+		// for(int i=0;i<arr.length;i++)
+		// {
+		//     if(arr[i]!=newarr[i])
+		//     {
+		//     return false;
+		//     }
+		// }
+		// return true;
+		for (int i = 0, j = arr.length - 1; i < j; i++, j--) {
+			if (arr[i] != arr[j])
+				return false;
+		}
+		return true;
+		
+	}
 }
 
 ```
