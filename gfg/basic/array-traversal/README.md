@@ -27,7 +27,7 @@ Explanation: Just traverse and print the numbers.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-29T09:29:27.429Z  
+**Submitted:** 2026-10-29T09:30:18.625Z  
 
 ```java
 class Solution {
