@@ -38,7 +38,7 @@ The count of 4 is 3.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-29T16:12:26.275Z  
+**Submitted:** 2026-10-29T16:12:36.388Z  
 
 ```java
 // class Solution {
