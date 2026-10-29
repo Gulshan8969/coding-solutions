@@ -26,7 +26,7 @@ Explanation:  If we reverse it, we get [5, 4, 3, 2, 1] which is the not same as 
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-29T09:49:35.664Z  
+**Submitted:** 2026-10-29T09:54:39.371Z  
 
 ```java
 class Solution {
