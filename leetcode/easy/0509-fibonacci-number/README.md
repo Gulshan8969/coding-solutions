@@ -53,8 +53,8 @@ Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3.
 
 **Language:** Java  
 **Runtime:** 10 ms (beats 25.32%)  
-**Memory:** 41.5 MB (beats 94.62%)  
-**Submitted:** 2026-10-29T01:36:24.860Z  
+**Memory:** 41.7 MB (beats 86.58%)  
+**Submitted:** 2026-10-29T01:39:23.968Z  
 
 ```java
 class Solution {
