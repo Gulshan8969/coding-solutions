@@ -52,8 +52,8 @@ The diagonal "[1, 2]" has different elements.
 
 **Language:** Java  
 **Runtime:** 1 ms (beats 30.20%)  
-**Memory:** 45.9 MB (beats 86.90%)  
-**Submitted:** 2026-10-30T07:20:09.017Z  
+**Memory:** 45.6 MB (beats 98.12%)  
+**Submitted:** 2026-10-30T07:56:20.021Z  
 
 ```java
 class Solution {
