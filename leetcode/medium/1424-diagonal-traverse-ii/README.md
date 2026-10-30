@@ -36,9 +36,9 @@ Output: [1,6,2,8,7,3,9,4,12,10,5,13,11,14,15,16]
 ## Solution
 
 **Language:** Java  
-**Runtime:** 36 ms (beats 55.44%)  
-**Memory:** 125.6 MB (beats 31.90%)  
-**Submitted:** 2026-10-30T08:00:31.233Z  
+**Runtime:** 34 ms (beats 63.04%)  
+**Memory:** 125.2 MB (beats 35.19%)  
+**Submitted:** 2026-10-30T08:02:44.690Z  
 
 ```java
 class Solution {
