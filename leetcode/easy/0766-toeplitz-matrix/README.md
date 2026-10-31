@@ -51,9 +51,9 @@ The diagonal "[1, 2]" has different elements.
 ## Solution
 
 **Language:** Java  
-**Runtime:** 1 ms (beats 31.13%)  
-**Memory:** 46.1 MB (beats 73.36%)  
-**Submitted:** 2026-10-31T00:39:33.950Z  
+**Runtime:** 0 ms  
+**Memory:** 41.5 MB  
+**Submitted:** 2026-10-31T00:44:43.337Z  
 
 ```java
 class Solution {
