@@ -1,38 +1,21 @@
-import java.util.*;
-
 class Solution {
     public List<Integer> luckyNumbers(int[][] matrix) {
-        int r = matrix.length;
-        int c = matrix[0].length;
-        List<Integer> result = new ArrayList<>();
+        int r = matrix.length, c = matrix[0].length;
+        int[] rowMin = new int[r];
+        int[] colMax = new int[c];
+        Arrays.fill(rowMin, Integer.MAX_VALUE);
 
-        for (int i = 0; i < r; i++) {
+        for (int i = 0; i < r; i++)
             for (int j = 0; j < c; j++) {
-                int val = matrix[i][j];
-                boolean isRowMin = true;
-                boolean isColMax = true;
-
-                // is val the smallest in its row?
-                for (int k = 0; k < c; k++) {
-                    if (matrix[i][k] < val) {
-                        isRowMin = false;
-                        break;
-                    }
-                }
-
-                // is val the largest in its column?
-                for (int k = 0; k < r; k++) {
-                    if (matrix[k][j] > val) {
-                        isColMax = false;
-                        break;
-                    }
-                }
-
-                if (isRowMin && isColMax) {
-                    result.add(val);
-                }
+                rowMin[i] = Math.min(rowMin[i], matrix[i][j]);
+                colMax[j] = Math.max(colMax[j], matrix[i][j]);
             }
-        }
+
+        List<Integer> result = new ArrayList<>();
+        for (int i = 0; i < r; i++)
+            for (int j = 0; j < c; j++)
+                if (matrix[i][j] == rowMin[i] && matrix[i][j] == colMax[j])
+                    result.add(matrix[i][j]);
         return result;
     }
 }
