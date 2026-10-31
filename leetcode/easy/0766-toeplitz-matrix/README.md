@@ -51,25 +51,24 @@ The diagonal "[1, 2]" has different elements.
 ## Solution
 
 **Language:** Java  
-**Runtime:** 1 ms (beats 30.20%)  
-**Memory:** 45.8 MB (beats 92.37%)  
-**Submitted:** 2026-10-30T07:57:46.182Z  
+**Runtime:** 1 ms (beats 31.13%)  
+**Memory:** 46.1 MB (beats 73.36%)  
+**Submitted:** 2026-10-31T00:39:33.950Z  
 
 ```java
 class Solution {
     public boolean isToeplitzMatrix(int[][] matrix) {
         int x=1;
         int y=1;
-        int n = matrix.length, m = matrix[0].length;
-
-        for (int i = 1; i < n; i++) {
-            for (int j = 1; j < m; j++) {
-                if (matrix[i][j] != matrix[i-1][j-1])
-                    return false;
+        int n=matrix.length;
+        int m=matrix[0].length;
+        for(int i=1;i<n;i++){
+            for(int j=1;j<m;j++){
+                if(matrix[i][j] !=matrix[i-1][j-1])
+                return false;
             }
         }
         return true;
-
     }
 }
 ```
