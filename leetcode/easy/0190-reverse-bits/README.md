@@ -48,7 +48,7 @@ Integer	Binary
 **Language:** Java  
 **Runtime:** 1 ms (beats 66.80%)  
 **Memory:** 42 MB (beats 88.48%)  
-**Submitted:** 2026-11-01T09:04:09.869Z  
+**Submitted:** 2026-11-01T09:04:59.609Z  
 
 ```java
 class Solution {
