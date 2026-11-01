@@ -51,14 +51,24 @@ The input binary string  **1111111111111111111111111111101**  has a total of thi
 ## Solution
 
 **Language:** Java  
-**Runtime:** 1 ms (beats 46.83%)  
-**Memory:** 41.6 MB (beats 98.89%)  
-**Submitted:** 2026-11-01T08:55:16.979Z  
+**Runtime:** 2 ms (beats 3.18%)  
+**Memory:** 41.8 MB (beats 95.25%)  
+**Submitted:** 2026-11-01T08:56:17.644Z  
 
 ```java
+// class Solution {  //built in methods    
+//     public int hammingWeight(int n) {
+//         return Integer.bitCount(n);
+//     }
+// }
+//string conversion
 class Solution {
     public int hammingWeight(int n) {
-        return Integer.bitCount(n);
+        int count = 0;
+        for (char c : Integer.toBinaryString(n).toCharArray()) {
+            if (c == '1') count++;
+        }
+        return count;
     }
 }
 ```
