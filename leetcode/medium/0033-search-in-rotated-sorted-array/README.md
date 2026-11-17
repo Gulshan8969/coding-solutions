@@ -14,6 +14,8 @@ You must write an algorithm with `O(log n)` runtime complexity.
 
  
 
+Original
+Java
  **Example 1:** 
 
 ```
@@ -52,8 +54,8 @@ Output: -1
 
 **Language:** Java  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 43.4 MB (beats 80.40%)  
-**Submitted:** 2026-11-02T02:12:02.641Z  
+**Memory:** 43.3 MB (beats 83.45%)  
+**Submitted:** 2026-11-17T10:57:17.871Z  
 
 ```java
 class Solution {
