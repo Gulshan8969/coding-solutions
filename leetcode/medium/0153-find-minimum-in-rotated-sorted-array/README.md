@@ -17,6 +17,8 @@ You must write an algorithm that runs in `O(log n) time`.
 
  
 
+Original
+Java
  **Example 1:** 
 
 ```
@@ -57,16 +59,29 @@ Explanation: The original array was [11,13,15,17] and it was rotated 4 times.
 ## Solution
 
 **Language:** Java  
-**Runtime:** 4 ms (beats 4.19%)  
-**Memory:** 44 MB (beats 16.75%)  
-**Submitted:** 2026-11-01T08:38:29.803Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 43 MB (beats 92.58%)  
+**Submitted:** 2026-11-17T10:06:43.211Z  
 
 ```java
 class Solution {
     public int findMin(int[] nums) {
-       int n=nums.length;
-       Arrays.sort(nums);
-       return nums[n-n]; 
+        int l = 0;
+        int r = nums.length - 1;
+
+        if (nums.length == 1 || nums[l] < nums[r]) {
+            return nums[0];
+        }
+
+        while (l < r) {
+            int mid = l + (r - l) / 2;
+            if (nums[mid] > nums[r]) {
+                l = mid + 1;
+            } else {
+                r = mid;
+            }
+        }
+        return nums[l];
     }
 }
 ```
