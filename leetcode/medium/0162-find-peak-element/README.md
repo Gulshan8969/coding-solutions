@@ -14,6 +14,8 @@ You must write an algorithm that runs in `O(log n)` time.
 
  
 
+Original
+Java
  **Example 1:** 
 
 ```
@@ -42,8 +44,8 @@ Explanation: Your function can return either index number 1 where the peak eleme
 
 **Language:** Java  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 43.6 MB (beats 89.50%)  
-**Submitted:** 2026-11-02T02:11:42.215Z  
+**Memory:** 43.3 MB (beats 96.85%)  
+**Submitted:** 2026-11-18T09:48:08.516Z  
 
 ```java
 class Solution {
