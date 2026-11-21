@@ -1,12 +1,12 @@
 {
-  "totalSolved": 159,
+  "totalSolved": 160,
   "difficulties": {
     "easy": 113,
-    "medium": 43,
+    "medium": 44,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 81,
+    "leetcode": 82,
     "geeksforgeeks": 77,
     "takeuforward": 1,
     "hackerrank": 0,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "Hand of Straights",
+    "title": "Merge Triplets to Form Target Triplet",
     "platform": "LeetCode",
     "language": "cpp",
     "difficulty": "Medium",
-    "syncedAt": "2026-11-21T02:59:06.837Z"
+    "syncedAt": "2026-11-21T03:03:39.881Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
