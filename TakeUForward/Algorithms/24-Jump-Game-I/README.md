@@ -1,0 +1,22 @@
+# 24. Jump Game - I
+
+![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange?style=for-the-badge)
+![Platform: TakeUForward](https://img.shields.io/badge/Platform-TakeUForward-blue?style=for-the-badge)
+![Status: ACCEPTED](https://img.shields.io/badge/Status-ACCEPTED-success?style=for-the-badge)
+
+## 📋 Problem Details
+
+| Metric | Detail |
+| :--- | :--- |
+| **Platform** | [TakeUForward](https://takeuforward.org/practice/dsa/jump-game---i) |
+| **Problem Link** | [View Problem on TakeUForward](https://takeuforward.org/practice/dsa/jump-game---i) |
+| **Language** | `C++` |
+| **Estimated Time Complexity** | `O(N)` |
+| **Estimated Space Complexity** | `O(1)` |
+| **Topics / Tags** | `Algorithms` |
+| **Synchronized At** | `Sat, 21 Nov 2026 02:31:21 GMT` |
+
+---
+
+### 💡 Solution Note
+Automatically synchronized by **[CodeSync v3.0.0](https://studyit.in)** — Universal Multi-Platform Solution Sync Engine powered by [Studyit.in](https://studyit.in).
