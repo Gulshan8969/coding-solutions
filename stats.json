@@ -2,11 +2,11 @@
   "totalSolved": 156,
   "difficulties": {
     "easy": 113,
-    "medium": 40,
+    "medium": 41,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 79,
+    "leetcode": 80,
     "geeksforgeeks": 77,
     "takeuforward": 0,
     "hackerrank": 0,
@@ -14,9 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "Restored from Repository",
-    "platform": "All Platforms",
-    "syncedAt": "2026-11-21T02:13:44.219Z"
+    "title": "Jump Game",
+    "platform": "LeetCode",
+    "language": "cpp",
+    "difficulty": "Medium",
+    "syncedAt": "2026-11-21T02:19:30.027Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
