@@ -10,6 +10,8 @@ Return `true` *if you can reach the last index, or* `false` *otherwise*.
 
  
 
+Original
+Java
  **Example 1:** 
 
 ```
@@ -38,17 +40,22 @@ Explanation: You will always arrive at index 3 no matter what. Its maximum jump 
 ## Solution
 
 **Language:** Java  
-**Runtime:** 3 ms (beats 27.00%)  
-**Memory:** 47.4 MB (beats 89.33%)  
-**Submitted:** 2026-11-02T01:56:15.179Z  
+**Runtime:** 2 ms (beats 94.51%)  
+**Memory:** 47.2 MB (beats 88.27%)  
+**Submitted:** 2026-11-21T02:19:52.381Z  
 
 ```java
 class Solution {
     public boolean canJump(int[] nums) {
-        int fastest=0;
-        for(int i=0; i<nums.length;i++){
-            if(i>fastest) return false;
-            fastest=Math.max(fastest,i+nums[i]);
+        int farthest = 0; // farthest index reachable so far
+
+        for (int i = 0; i < nums.length; i++) {
+            // If the current index is beyond anything we can reach, we're stuck.
+            if (i > farthest) return false;
+
+            farthest = Math.max(farthest, i + nums[i]);
+
+            if (farthest >= nums.length - 1) return true;
         }
         return true;
     }
