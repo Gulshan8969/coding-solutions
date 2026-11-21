@@ -1,12 +1,12 @@
 {
-  "totalSolved": 158,
+  "totalSolved": 159,
   "difficulties": {
     "easy": 113,
-    "medium": 42,
+    "medium": 43,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 80,
+    "leetcode": 81,
     "geeksforgeeks": 77,
     "takeuforward": 1,
     "hackerrank": 0,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "24. Jump Game - I",
-    "platform": "TakeUForward",
+    "title": "Hand of Straights",
+    "platform": "LeetCode",
     "language": "cpp",
     "difficulty": "Medium",
-    "syncedAt": "2026-11-21T02:31:23.146Z"
+    "syncedAt": "2026-11-21T02:52:47.956Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
