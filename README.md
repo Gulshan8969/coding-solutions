@@ -1,49 +1,101 @@
 <div align="center">
 
-# 🧠 Coding Solutions
+# ⚡ Data Structures & Algorithms Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-2-blue?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
-![Last Synced](https://img.shields.io/badge/Last_Synced-21--11--2026-green?style=for-the-badge)
+[![Download CodeSync](https://img.shields.io/badge/Download%20Extension-CodeSync-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studyit.in/codesync)
+[![Visit Studyit](https://img.shields.io/badge/University%20Notes%20%26%20PYQs-Studyit.in-10B981?style=for-the-badge&logo=book&logoColor=white)](https://studyit.in)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-160-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white)](#-problem-solving-statistics)
 
-> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
+<p align="center">
+  <a href="https://studyit.in/codesync"><b>📥 Download CodeSync Extension</b></a> •
+  <a href="https://studyit.in"><b>🎓 Visit Studyit.in (Semester Notes & Solved PYQ Bank)</b></a>
+</p>
+
+> Automated repository containing curated solutions, detailed notes, and complexity breakdowns for Data Structures & Algorithms and Competitive Programming problems, synchronized in real time via **[CodeSync](https://studyit.in/codesync)**.
 
 </div>
 
 ---
 
-## 📊 Stats
+> [!TIP]
+> 🚀 **Automate Your DSA Portfolio:** Download [CodeSync for Chrome](https://studyit.in/codesync) to sync your submissions from LeetCode, GeeksforGeeks, and HackerRank instantly to GitHub.  
+> 📚 **Ace University Exams:** Check out [Studyit.in](https://studyit.in) for curated university notes, formula cheat-sheets, and solved past-year question (PYQ) banks mapped to your semester curriculum.
 
-| Difficulty | Solved |
-|:---:|:---:|
-| 🟢 Easy | **0** |
-| 🟡 Medium | **2** |
-| 🔴 Hard | **0** |
-| **Total** | **2** |
-
-## 🛠️ Languages
-
-| Language | Solutions |
-|:---:|:---:|
-| Java | **2** |
-
-## 📂 Repository Structure
-
-```
-📦 coding-solutions/
-├── leetcode/
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
-├── hackerrank/
-├── codechef/
-└── gfg/
-```
-
----
+## 📊 Problem Solving Statistics
 
 <div align="center">
 
-*Last updated: 2026-11-21* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+[![Easy](https://img.shields.io/badge/Easy-113-00B8A3?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
+[![Medium](https://img.shields.io/badge/Medium-44-FFC01E?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
+[![Hard](https://img.shields.io/badge/Hard-3-FF375F?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 
 </div>
+
+### 🎯 Difficulty Breakdown
+
+| Difficulty | Solved | Percentage | Progress Bar |
+| :--- | :---: | :---: | :--- |
+| 🟢 **Easy** | `113` | `71%` | `██████████░░░░` |
+| 🟡 **Medium** | `44` | `28%` | `████░░░░░░░░░░` |
+| 🔴 **Hard** | `3` | `2%` | `░░░░░░░░░░░░░░` |
+
+### 🌐 Platform Breakdown
+
+| Platform | Solved | Status | Link |
+| :--- | :---: | :---: | :---: |
+| 🟡 **LeetCode** | `82` | 🟢 Active | [leetcode.com](https://leetcode.com) |
+| 🟢 **GeeksforGeeks** | `77` | 🟢 Active | [geeksforgeeks.org](https://practice.geeksforgeeks.org) |
+| 🔴 **TakeUForward** | `1` | 🟢 Active | [takeuforward.org](https://takeuforward.org) |
+| 🔵 **HackerRank** | `0` | 🟢 Active | [hackerrank.com](https://hackerrank.com) |
+| 🟤 **CodeChef** | `0` | 🟢 Active | [codechef.com](https://codechef.com) |
+| 🟣 **Codeforces** | `0` | 🟢 Active | [codeforces.com](https://codeforces.com) |
+
+### 📌 Recent Activity
+
+| Metric | Details |
+| :--- | :--- |
+| **Latest Solved** | **Merge Triplets to Form Target Triplet** |
+| **Platform** | `LeetCode` |
+| **Difficulty** | `Medium` |
+| **Language** | `cpp` |
+| **Last Synchronized** | `Sat, 21 Nov 2026 03:03:39 GMT` |
+
+---
+
+## 📂 Repository Structure
+
+The solutions in this repository are automatically structured and categorized:
+
+```text
+├── LeetCode/
+│   └── [Topic]/[Problem-Title]/
+│       ├── solution.[ext]
+│       └── README.md
+├── GeeksforGeeks/
+│   └── [Topic]/[Problem-Title]/
+│       ├── solution.[ext]
+│       └── README.md
+├── TakeUForward/
+│   └── ...
+├── stats.json          # Raw real-time statistics
+└── README.md           # This dashboard
+```
+
+---
+
+## 🚀 About CodeSync & Studyit
+
+This repository is maintained automatically using **[CodeSync](https://studyit.in/codesync)** — built by **[Studyit.in](https://studyit.in)**.
+
+- ⚡ **[CodeSync](https://studyit.in/codesync):** A lightweight, high-performance browser extension that automatically captures and syncs your accepted code submissions directly to your GitHub repository across 6+ competitive programming platforms with zero manual effort.
+- 🎓 **[Studyit.in](https://studyit.in):** The smarter exam-preparation platform tailored for engineering and university students. Access curated unit-wise notes, formula cards, recurrence patterns, and comprehensive solved Previous Year Question (PYQ) banks mapped directly to your university curriculum.
+
+### ✨ Key Highlights
+- ⚡ **Zero Friction:** Auto-syncs upon submission without manual copy-pasting.
+- 📁 **Organized Hierarchies:** Automatically categorizes by platform, difficulty, and algorithmic topic.
+- 📝 **Rich READMEs:** Generates problem descriptions, links, and Big-O time/space complexity estimates.
+- 📊 **Dynamic Stats:** Maintains `stats.json` and updates repo documentation automatically.
+
+🔗 **Download CodeSync:** [studyit.in/codesync](https://studyit.in/codesync)  
+🌐 **Visit Studyit Platform:** [studyit.in](https://studyit.in)  
+💡 *Crafted with ❤️ by developers, for students and developers.*
