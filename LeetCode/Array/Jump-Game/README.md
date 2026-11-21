@@ -8,13 +8,13 @@
 
 | Metric | Detail |
 | :--- | :--- |
-| **Platform** | [LeetCode](https://leetcode.com/problems/jump-game/) |
-| **Problem Link** | [View Problem on LeetCode](https://leetcode.com/problems/jump-game/) |
+| **Platform** | [LeetCode](https://leetcode.com/problems/jump-game) |
+| **Problem Link** | [View Problem on LeetCode](https://leetcode.com/problems/jump-game) |
 | **Language** | `C++` |
 | **Estimated Time Complexity** | `O(N)` |
 | **Estimated Space Complexity** | `O(1)` |
 | **Topics / Tags** | `Array`, `Dynamic Programming`, `Greedy` |
-| **Synchronized At** | `Sat, 21 Nov 2026 02:19:28 GMT` |
+| **Synchronized At** | `Sat, 21 Nov 2026 02:19:56 GMT` |
 
 ---
 
