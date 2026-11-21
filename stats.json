@@ -1,24 +1,24 @@
 {
-  "totalSolved": 157,
+  "totalSolved": 158,
   "difficulties": {
     "easy": 113,
-    "medium": 41,
+    "medium": 42,
     "hard": 3
   },
   "platforms": {
     "leetcode": 80,
     "geeksforgeeks": 77,
-    "takeuforward": 0,
+    "takeuforward": 1,
     "hackerrank": 0,
     "codechef": 0,
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "Jump Game",
-    "platform": "LeetCode",
+    "title": "24. Jump Game - I",
+    "platform": "TakeUForward",
     "language": "cpp",
     "difficulty": "Medium",
-    "syncedAt": "2026-11-21T02:19:30.027Z"
+    "syncedAt": "2026-11-21T02:31:23.146Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
