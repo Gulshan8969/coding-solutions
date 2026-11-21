@@ -8,13 +8,13 @@
 
 | Metric | Detail |
 | :--- | :--- |
-| **Platform** | [LeetCode](https://leetcode.com/problems/hand-of-straights/description/) |
-| **Problem Link** | [View Problem on LeetCode](https://leetcode.com/problems/hand-of-straights/description/) |
+| **Platform** | [LeetCode](https://leetcode.com/problems/hand-of-straights/) |
+| **Problem Link** | [View Problem on LeetCode](https://leetcode.com/problems/hand-of-straights/) |
 | **Language** | `C++` |
 | **Estimated Time Complexity** | `O(N)` |
 | **Estimated Space Complexity** | `O(1)` |
 | **Topics / Tags** | `Array`, `Hash Table`, `Greedy`, `Sorting` |
-| **Synchronized At** | `Sat, 21 Nov 2026 02:52:45 GMT` |
+| **Synchronized At** | `Sat, 21 Nov 2026 02:56:55 GMT` |
 
 ---
 
