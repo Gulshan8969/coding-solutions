@@ -4,7 +4,7 @@
 
 [![Download CodeSync](https://img.shields.io/badge/Download%20Extension-CodeSync-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studyit.in/codesync)
 [![Visit Studyit](https://img.shields.io/badge/University%20Notes%20%26%20PYQs-Studyit.in-10B981?style=for-the-badge&logo=book&logoColor=white)](https://studyit.in)
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-158-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white)](#-problem-solving-statistics)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-159-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white)](#-problem-solving-statistics)
 
 <p align="center">
   <a href="https://studyit.in/codesync"><b>📥 Download CodeSync Extension</b></a> •
@@ -26,7 +26,7 @@
 <div align="center">
 
 [![Easy](https://img.shields.io/badge/Easy-113-00B8A3?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
-[![Medium](https://img.shields.io/badge/Medium-42-FFC01E?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
+[![Medium](https://img.shields.io/badge/Medium-43-FFC01E?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 [![Hard](https://img.shields.io/badge/Hard-3-FF375F?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 
 </div>
@@ -35,15 +35,15 @@
 
 | Difficulty | Solved | Percentage | Progress Bar |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | `113` | `72%` | `██████████░░░░` |
-| 🟡 **Medium** | `42` | `27%` | `████░░░░░░░░░░` |
+| 🟢 **Easy** | `113` | `71%` | `██████████░░░░` |
+| 🟡 **Medium** | `43` | `27%` | `████░░░░░░░░░░` |
 | 🔴 **Hard** | `3` | `2%` | `░░░░░░░░░░░░░░` |
 
 ### 🌐 Platform Breakdown
 
 | Platform | Solved | Status | Link |
 | :--- | :---: | :---: | :---: |
-| 🟡 **LeetCode** | `80` | 🟢 Active | [leetcode.com](https://leetcode.com) |
+| 🟡 **LeetCode** | `81` | 🟢 Active | [leetcode.com](https://leetcode.com) |
 | 🟢 **GeeksforGeeks** | `77` | 🟢 Active | [geeksforgeeks.org](https://practice.geeksforgeeks.org) |
 | 🔴 **TakeUForward** | `1` | 🟢 Active | [takeuforward.org](https://takeuforward.org) |
 | 🔵 **HackerRank** | `0` | 🟢 Active | [hackerrank.com](https://hackerrank.com) |
@@ -54,11 +54,11 @@
 
 | Metric | Details |
 | :--- | :--- |
-| **Latest Solved** | **24. Jump Game - I** |
-| **Platform** | `TakeUForward` |
+| **Latest Solved** | **Hand of Straights** |
+| **Platform** | `LeetCode` |
 | **Difficulty** | `Medium` |
 | **Language** | `cpp` |
-| **Last Synchronized** | `Sat, 21 Nov 2026 02:31:23 GMT` |
+| **Last Synchronized** | `Sat, 21 Nov 2026 02:52:47 GMT` |
 
 ---
 
